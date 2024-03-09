@@ -3,3 +3,7 @@ numpy
 pandas
 seaborn
 scikit-learn
+pytorch_lightning==1.8.1
+torchvision
+tensorboard
+tensorboardX
